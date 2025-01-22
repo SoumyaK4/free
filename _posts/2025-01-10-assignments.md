@@ -7,7 +7,7 @@ date: 2025-01-10 00:00:00 +0530
 
 ---
 
-## [Phase 1: Introduction to Baduk](/tests/posts/course/#phase-1-introduction-1-2-weeks)
+## [Phase 1: Introduction to Baduk](/free/posts/course/#phase-1-introduction-1-2-weeks)
 
 ---
 
@@ -38,7 +38,7 @@ date: 2025-01-10 00:00:00 +0530
 
 ---
 
-## [Phase 2: Fundamentals of Strategy](/tests/posts/course/#phase-2-fundamentals-34-weeks)
+## [Phase 2: Fundamentals of Strategy](/free/posts/course/#phase-2-fundamentals-34-weeks)
 
 ---
 
@@ -69,7 +69,7 @@ date: 2025-01-10 00:00:00 +0530
 
 ---
 
-## [Phase 3: Intermediate Tactics and Strategy](/tests/posts/course/#phase-3-strategy-56-weeks)
+## [Phase 3: Intermediate Tactics and Strategy](/free/posts/course/#phase-3-strategy-56-weeks)
 
 ---
 
@@ -106,7 +106,7 @@ date: 2025-01-10 00:00:00 +0530
 
 ---
 
-## [Phase 4: Advanced Concepts and Teaching Methods](/tests/posts/course/#phase-4-advanced-concepts-78-weeks)
+## [Phase 4: Advanced Concepts and Teaching Methods](/free/posts/course/#phase-4-advanced-concepts-78-weeks)
 
 ---
 
@@ -145,7 +145,7 @@ date: 2025-01-10 00:00:00 +0530
 
 ---
 
-## [Phase 5: Final Assessment](/tests/posts/course/#phase-5-final-assessment-and-certification-68-hours)
+## [Phase 5: Final Assessment](/free/posts/course/#phase-5-final-assessment-and-certification-68-hours)
 
 ---
 
