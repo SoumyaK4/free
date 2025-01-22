@@ -3,7 +3,7 @@ title: Assignments
 date: 2025-01-10 00:00:00 +0530
 ---
 
-**For Developers** : use [Seki Player](/tests/seki-player/) for embedding boards inside LMS.
+**For Developers** : use [Seki Player](/free/seki-player/) for embedding boards inside LMS.
 
 ---
 
