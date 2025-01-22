@@ -1,45 +1,18 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 2
 ---
 
-<div id="seki-board"
-  class="seki-board-static"
-  
-  data-game="(;
-    FF[4]
-    CA[UTF-8]
-    AP[Seki v1.3.17]
-    GM[1]
-    XL[2]
-    XR[0]
-    XT[3]
-    XB[0]
-    KM[0]
-    HA[0]
-    TM[0]
-    ST[2]
-    SZ[9]
-    PB[Black]
-    PW[White]
-    ;AB[fh][gg][fg][hf][ge][dg]AW[gh][hg][hi][ih]
-  )"
-  data-config="{
-    'showCoordinates': true,
-    'showStarPoints': true
-  }"
-></div>
-<br>
-<div id="seki-board"
-  class="seki-board-dynamic fixed-size square"
-  data-config="{
-    'showCoordinates': false,
-    'showLastMoveNumber': true,
-    'board': {
-      'size': 9
-    }
-  }"
-></div>
+---
 
-See [Seki Player](https://github.com/adamreisnz/seki) for more info.
+## Use the following resources to implement inbuilt puzzles & other databases for LMS
+
+- [Beginner](https://en.1200igo.com/beginnersquestion) 
+- [Terms DB 1](https://gomagic.org/glossary-of-go-terms/)
+- [Terms DB 2](https://en.1200igo.com/term) 
+- [Tsumego DB](https://en.1200igo.com/tsumego) 
+- [Tesuji DB](https://en.1200igo.com/tesuji) 
+- [Fuseki DB](https://en.1200igo.com/opening) 
+- [Yose DB](https://en.1200igo.com/yose) 
+- [Proverbs DB](https://en.1200igo.com/proverb) 
