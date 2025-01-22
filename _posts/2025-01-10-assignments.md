@@ -3,8 +3,6 @@ title: Assignments
 date: 2025-01-10 00:00:00 +0530
 ---
 
-**For Developers** : use [Seki Player](/free/seki-player/) for embedding boards inside LMS.
-
 ---
 
 ## [Phase 1: Introduction to Baduk](/free/posts/course/#phase-1-introduction-1-2-weeks)
