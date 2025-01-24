@@ -16,3 +16,8 @@ order: 2
 - [Fuseki DB](https://en.1200igo.com/opening) 
 - [Yose DB](https://en.1200igo.com/yose) 
 - [Proverbs DB](https://en.1200igo.com/proverb) 
+
+## Reference Lecture topics For Teacher
+
+- [MGF](https://youtube.com/playlist?list=PL26zqOAJYwGoi2oPyUN8ylEdOnGDfE1D3&si=pb-5aOzDvhL78kxf)
+- [Baduk Movies](https://youtube.com/playlist?list=PLNThHgLMVnk2xewoXafHFPMxg-4M88Wlf&si=HjDN_JFYhoIUDO_e)
