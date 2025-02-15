@@ -3,20 +3,9 @@ title: International Tournaments
 date: 2024-12-30 00:00:00 +0530
 ---
 
-# Active Go Tournaments (2025)
+# Active Go Tournaments (As of 2025)
 
-This is a comprehensive list of active Go tournaments categorized based on their nature (Professional, Amateur, Mixed) and their scope (International, Continental, National, Regional). 
-
-## Main Categories
-1. **Professional (Pro)**
-2. **Amateur**
-3. **Mixed**
-
-## Secondary Categories
-1. **International**
-2. **Continental**
-3. **National**
-4. **Regional**
+This is a list of active Go tournaments categorized based on their nature (Professional, Amateur, Mixed) and their scope (International, Continental, National, Regional). 
 
 ---
 
