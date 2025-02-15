@@ -130,7 +130,7 @@ This is a comprehensive list of active Go tournaments categorized based on their
   - **Schedule:** Annual  
   - **Details:** Top amateur event worldwide.  
 
-- **[Korean Prime Minister’s Cup](http://www.koreanbadukcongress.com/)**
+- **[Korean Prime Minister’s Cup](https://www.koreanbadukcongress.com/)**
   - **Host:** South Korea  
   - **Prize:** Recognition & monetary prize  
   - **Schedule:** Annual  
@@ -146,7 +146,7 @@ This is a comprehensive list of active Go tournaments categorized based on their
 
 ## 3. Mixed (Both Pro & Amateur Players Compete)
 
-- **[Korean Baduk Congress](http://www.koreanbadukcongress.com/)**
+- **[Korean Baduk Congress](https://www.koreanbadukcongress.com/)**
   - **Host:** South Korea  
   - **Prize:** Recognition & cash  
   - **Schedule:** Annual  
@@ -187,10 +187,10 @@ This is a comprehensive list of active Go tournaments categorized based on their
 ## Useful Links
 - [Nihon Ki-in (Japan)](https://www.nihonkiin.or.jp/)
 - [Korea Baduk Association](https://www.baduk.or.kr/)
-- [Chinese Weiqi Association](http://www.qipai.org.cn/)
+- [Chinese Weiqi Association](https://www.qipai.org.cn/)
 - [European Go Federation](https://www.eurogofed.org/)
 - [International Go Federation](https://www.intergofed.org/)
-- [Korean Baduk Congress](http://www.koreanbadukcongress.com/)
+- [Korean Baduk Congress](https://www.koreanbadukcongress.com/)
 
 ---
 
